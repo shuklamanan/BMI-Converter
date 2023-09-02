@@ -1,6 +1,6 @@
-# project_bmi
+# Body-Mass Index Converter
 
-A new Flutter project.
+I made BMI Converter using basics of Flutter
 
 ## Getting Started
 
